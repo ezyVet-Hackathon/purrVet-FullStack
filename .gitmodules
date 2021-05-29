@@ -1,0 +1,6 @@
+[submodule "purrVet-frontend"]
+	path = purrVet-frontend
+	url = https://github.com/ezyVet-Hackathon/purrVet-frontend.git
+[submodule "purrVet-Backend"]
+	path = purrVet-Backend
+	url = https://github.com/ezyVet-Hackathon/purrVet-Backend.git
